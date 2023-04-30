@@ -1,2 +1,2 @@
 # Weather Data Analysis
-In this project, we use Python (Pandas) to analyze the weather dataset. 
+In this project, I use Python(Pandas) to analyze the weather dataset. 
